@@ -1,4 +1,3 @@
-
 const con = require("./connector");
 const { slot_data,data } = require('./data')
 
